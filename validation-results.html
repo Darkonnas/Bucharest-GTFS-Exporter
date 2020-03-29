@@ -1,0 +1,138 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>FeedValidator: gtfs</title>
+<style>
+body {font-family: Georgia, serif; background-color: white}
+.path {color: gray}
+div.problem {max-width: 500px}
+table.dump td,th {background-color: khaki; padding: 2px; font-family:monospace}
+table.dump td.problem,th.problem {background-color: dc143c; color: white; padding: 2px; font-family:monospace}
+table.count_outside td {vertical-align: top}
+table.count_outside {border-spacing: 0px; }
+table {border-spacing: 5px 0px; margin-top: 3px}
+h3.issueHeader {padding-left: 0.5em}
+h4.issueHeader {padding-left: 1em}
+.pass {background-color: lightgreen}
+.fail {background-color: yellow}
+.notice {background-color: yellow}
+.pass, .fail {font-size: 16pt}
+.header {background-color: white; font-family: Georgia, serif; padding: 0px}
+th.header {text-align: right; font-weight: normal; color: gray}
+.footer {font-size: 10pt}
+</style>
+</head>
+<body>
+GTFS validation results for feed:<br>
+<code><span class="path">.\output\</span><b>1585435920891</b></code><br>
+FeedValidator extension used: extensions.googletransit
+<br><br>
+<table>
+<tr><th class="header">Agencies:</th><td class="header"><a href="https://stbsa.ro">STB SA</a>, <a href="https://stbsa.ro">METROREX SA</a></td></tr>
+<tr><th class="header">Routes:</th><td class="header">186</td></tr>
+<tr><th class="header">Stops:</th><td class="header">3297</td></tr>
+<tr><th class="header">Trips:</th><td class="header">19796</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">372</td></tr>
+<tr><th class="header">Effective:</th><td class="header">March 01, 2020 to December 30, 2020</td></tr>
+</table>
+<br>
+During the upcoming service dates Sun Mar 29 to Wed May 27:
+<table>
+<tr><th class="header">Average trips per date:</th><td class="header">5608</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">19796, on 17 service dates (Sun Mar 29, Sat Apr 04, Sun Apr 05, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">0, on 43 service dates (Mon Mar 30, Tue Mar 31, Wed Apr 01, ...)</td></tr>
+</table>
+<br>
+<span class="fail">Found these problems:</span>
+<table class="count_outside">
+<tr><td><span class="fail">21761 errors</span></td><td><span class="fail">3168 warnings</span></td></tr>
+<tr><td>
+<table><tr><td>21761</td><td><a href="#ErrorOtherProblem">Other Problems</a></td></tr>
+</table>
+</td>
+<td>
+<table><tr><td>41</td><td><a href="#WarningInvalidValue">Invalid Values</a></td></tr>
+<tr><td>1</td><td><a href="#WarningNoServiceExceptions">No Service Exceptions</a></td></tr>
+<tr><td>175</td><td><a href="#WarningOtherProblem">Other Problems</a></td></tr>
+<tr><td>11</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
+<tr><td>2841</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
+<tr><td>1</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Column</a></td></tr>
+<tr><td>98</td><td><a href="#WarningUnusedStop">Unused Stops</a></td></tr>
+</table>
+</td>
+</table>
+<br><br>
+<h3 class="issueHeader">Errors:</h3><h4 class="issueHeader"><a name="ErrorOtherProblem">Other Problem</a></h4><ul>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 1 in trip TRIP403015</div><br></li>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 4 in trip TRIP403015</div><br></li>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 8 in trip TRIP403015</div><br></li>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 1 in trip TRIP403014</div><br></li>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 4 in trip TRIP403014</div><br></li>
+<li>and 21756 more of this type.</ul>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningInvalidValue">Invalid Value</a></h4><ul>
+<li><div class="problem">Invalid value Straulesti in field <code>stop_desc</code><br>stop_desc should not be the same as stop_name</div>in line 848 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_name</th><th class="problem">stop_desc</th><th>stop_lat</th><th>stop_lon</th></tr>
+<tr><td>7775</td><td>Straulesti</td><td class="problem">Straulesti</td><td>44.503364</td><td>26.024194</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value Petrom City in field <code>stop_desc</code><br>stop_desc should not be the same as stop_name</div>in line 2058 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_name</th><th class="problem">stop_desc</th><th>stop_lat</th><th>stop_lon</th></tr>
+<tr><td>6303</td><td>Petrom City</td><td class="problem">Petrom City</td><td>44.490753</td><td>26.062265</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value Cartier Damaroaia in field <code>stop_desc</code><br>stop_desc should not be the same as stop_name</div>in line 2060 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_name</th><th class="problem">stop_desc</th><th>stop_lat</th><th>stop_lon</th></tr>
+<tr><td>6320</td><td>Cartier Damaroaia</td><td class="problem">Cartier Damaroaia</td><td>44.487929</td><td>26.051872</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value Petrom in field <code>stop_desc</code><br>stop_desc should not be the same as stop_name</div>in line 2063 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_name</th><th class="problem">stop_desc</th><th>stop_lat</th><th>stop_lon</th></tr>
+<tr><td>6306</td><td>Petrom</td><td class="problem">Petrom</td><td>44.493122</td><td>26.063764</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value COMPLEX COMERCIAL TITAN in field <code>stop_desc</code><br>stop_desc should not be the same as stop_name</div>in line 3057 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_name</th><th class="problem">stop_desc</th><th>stop_lat</th><th>stop_lon</th></tr>
+<tr><td>7595</td><td>COMPLEX COMERCIAL TITAN</td><td class="problem">COMPLEX COMERCIAL TITAN</td><td>44.406196</td><td>26.201423</td></tr></table>
+<br></li>
+<li>and 36 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningNoServiceExceptions">No Service Exceptions</a></h4><ul>
+<li><div class="problem">All services are defined on a weekly basis from 2020-03-01 to 2020-12-30 with no single day variations. If there are exceptions such as holiday service dates please ensure they are listed in calendar_dates.txt</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
+<li><div class="problem">The trip with the trip_id "TRIP5210235" only has one stop on it; it should have at least one more stop so that the riders can leave!</div><br></li>
+<li><div class="problem">The trip with the trip_id "TRIP5210234" only has one stop on it; it should have at least one more stop so that the riders can leave!</div><br></li>
+<li><div class="problem">The trip with the trip_id "TRIP5210288" only has one stop on it; it should have at least one more stop so that the riders can leave!</div><br></li>
+<li><div class="problem">The trip with the trip_id "TRIP5210289" only has one stop on it; it should have at least one more stop so that the riders can leave!</div><br></li>
+<li><div class="problem">The trip with the trip_id "TRIP5210280" only has one stop on it; it should have at least one more stop so that the riders can leave!</div><br></li>
+<li>and 170 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
+<li><div class="problem">The stops "Turnu Magurele" (ID 3808) and "Turnu Magurele" (ID 7255) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "Romprim" (ID 3492) and "Romprim" (ID 3629) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "Valea Argesului" (ID 3900) and "Valea Argesului" (ID 7586) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "Grup Scolar Auto" (ID 3864) and "Grup Scolar Auto" (ID 7324) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "Aeroport Henri Coanda Plecari" (ID 6044) and "Aeroport Henri Coanda Plecari" (ID 6626) are 0.00m apart and probably represent the same location.</div><br></li>
+<li>and 6 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
+<li><div class="problem">High speed travel detected in trip TRIP522025: Basarab to Piata Iancului. 5270 meters in 30 seconds. (632 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip TRIP522056: Basarab to Piata Iancului. 5270 meters in 90 seconds. (211 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip TRIP522059: Basarab to Obor. 4448 meters in 30 seconds. (534 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip TRIP522064: Basarab to Obor. 4448 meters in 90 seconds. (178 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip TRIP39603: La Batozaru to Manastirii. 3669 meters in 30 seconds. (440 km/h).</div><br></li>
+<li>and 2836 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
+<li><div class="problem">Unrecognized column <code>agency_email</code> in file <code>agency.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>agency.txt</code><br>
+<table class="dump"><tr><th>agency_id</th><th>agency_name</th><th>agency_url</th><th>agency_timezone</th><th>agency_lang</th><th>agency_phone</th><th>agency_fare_url</th><th class="problem">agency_email</th></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="problem"></td></tr></table>
+<br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningUnusedStop">Unused Stop</a></h4><ul>
+<li><div class="problem">Gradinita nr. 115 (ID 6358) isn't used in any trips</div><br></li>
+<li><div class="problem">Gradinita nr. 115 (ID 6359) isn't used in any trips</div><br></li>
+<li><div class="problem">Voluntarilor (ID 3150) isn't used in any trips</div><br></li>
+<li><div class="problem">Aurel Vlaicu (ID 9616) isn't used in any trips</div><br></li>
+<li><div class="problem">Aurel Vlaicu (ID 9617) isn't used in any trips</div><br></li>
+<li>and 93 more of this type.</ul>
+
+<div class="footer">
+Generated by <a href="https://github.com/google/transitfeed/wiki/FeedValidator">
+FeedValidator</a> version 1.2.15 on March 29, 2020 at 01:27 AM GTB Standard Time.
+</div>
+</body>
+</html>
