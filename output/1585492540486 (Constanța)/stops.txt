@@ -1,0 +1,318 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon
+995,"Sere (C.L.)","Sere",44.151345,28.60229
+1329,"Facultativa","undefined",44.155084,28.60735
+1185,"Piata CET","Piata CET",44.159515,28.609628
+1222,"Cumpenei","Cumpenei",44.162213,28.604241
+1224,"Dobrogea ","Dobrogea ",44.164908,28.598642
+1226,"Alba Iulia  ","Alba Iulia",44.174338,28.594629
+1235,"TAM ","TAM ",44.177738,28.595623
+1236,"TAR S.A.   ","TAR S.A. ",44.184081,28.598512
+1242,"SCUT S.A. ","SCUT S.A. ",44.187209,28.599979
+1243,"Bariera ","Bariera ",44.191142,28.601808
+1251,"Metro  ","Metro  ",44.197802,28.605313
+1258,"Targ ","Targ",44.200285,28.607399
+1310,"Obor  ","Obor  ",44.203833,28.61107
+1312,"Peco  ","Peco  ",44.206045,28.613324
+1230,"Scapino (1,3,3B,43C,43M)","Scapino",44.206319,28.617634
+1228,"Boema  ","Boema  ",44.203743,28.621614
+1217,"Brotacei","Brotacei",44.203576,28.623465
+1012,"Bulevardul Tomis","Bulevardul Tomis",44.201006,28.627512
+1229,"Boema ","Boema ",44.203469,28.622202
+1231,"Scapino","Scapino",44.206385,28.617598
+1311,"Peco ","Peco ",44.206217,28.613446
+1309,"Obor","Obor",44.20385,28.611016
+1158,"Vivo","Vivo",44.199329,28.606373
+1250,"Metro ","Metro ",44.197073,28.604765
+1244,"Bariera ","Bariera ",44.191646,28.601848
+1241,"SCUT S.A.- sens PIATA CET","SCUT S.A.- sens PIATA CET",44.186901,28.5998
+1237,"TAR S.A. ","TAR S.A.",44.184509,28.598665
+1234,"RAJA  ","RAJA  ",44.177237,28.595352
+1225,"Alba Iulia ","Alba Iulia ",44.173585,28.594602
+1181,"Dobrogea","Dobrogea",44.164756,28.598866
+1223,"Lukoil","Lukoil",44.163882,28.600651
+1182,"Cumpenei","Cumpenei",44.161323,28.605681
+1183,"Piata CET","Piata CET",44.159087,28.61041
+1330,"Facultativa","undefined",44.154654,28.606735
+996,"Sere - debarcare (C.L.)","Sere",44.151556,28.60259
+1220,"Tomis Nord (C.L.)","Tomis Nord",44.211156,28.623729
+1227,"Dobrila Eugeniu  ","Dobrila Eugeniu  ",44.209135,28.620279
+1218,"Brotacei","Brotacei",44.205022,28.623461
+1172,"Macul Rosu","Macul Rosu",44.201852,28.62448
+1212,"Tomis 3","Tomis 3",44.199376,28.628224
+1210,"Dacia","Dacia",44.19608,28.63326
+1197,"Colegiul Tehnic Tomis","Colegiul Tehnic Tomis",44.191285,28.639755
+1194,"Spitalul Judetean","Spitalul Judetean",44.188155,28.642441
+1192,"Institutul de proiectari","Institutul de proiectari",44.185495,28.644859
+1101,"Colegiul C-tin Bratescu","Colegiul C-tin Bratescu",44.182799,28.645372
+1366,"Piata Unirii","undefined",44.178663,28.650363
+1102,"Centru","Centru",44.177619,28.649779
+1103,"Republica","Republica",44.175676,28.645805
+1104,"Politie","Politie",44.173496,28.641663
+1105,"Spitalul Mun."," Spitalul Mun.",44.171273,28.638778
+1215,"Gara C.F.R.","Gara C.F.R.",44.168617,28.633677
+1138,"Spitalul CFR","Spitalul CFR",44.165005,28.633227
+1047,"Facultativa","Facultativa",44.162732,28.63222
+1049,"Far","Far",44.158969,28.631619
+1304,"Faleza Sud"," ",44.154055,28.630868
+1306,"Plopilor"," ",44.151962,28.62987
+1315,"Petru Cercel","Petru Cercel",44.149272,28.628529
+1317,"Liceul de Marina","undefined",44.146035,28.631192
+1318,"Complex","Complex",44.143106,28.631803
+1319,"Facultativa","Facultativa",44.139349,28.631782
+583,"Poarta 6 (C.L.) ","Poarta 6 ",44.138251,28.632959
+1322,"Facultativa","undefined",44.140435,28.628705
+1323,"Scoala 41","undefined",44.142583,28.627924
+1324,"Liceul de Marina","undefined",44.145674,28.62706
+1316,"Petru Cercel","undefined",44.148869,28.628365
+1305,"Plopilor","Plopilor ",44.152142,28.630004
+1303,"Faleza Sud"," ",44.154049,28.630908
+1050,"Far","Far",44.158938,28.631662
+1048,"Facultativa","Facultativa",44.162645,28.632235
+1139,"Spitalul CFR","Spitalul CFR",44.165353,28.633474
+1156,"Statie Parc Ferdinand","undefined",44.169407,28.633955
+1163,"Spitalul Municipal","Spitalul Municipal",44.170863,28.638262
+1164,"Politie","Politie",44.173561,28.641807
+1165,"Republica","Republica",44.175009,28.644535
+1166,"Fantasio","Fantasio",44.177205,28.649004
+1079,"Centru","Centru",44.178883,28.65244
+1080,"CMJ","CMJ",44.182882,28.649567
+1196,"Spitalul  Judetean","Spitalul  Judetean",44.188608,28.643187
+1209,"Stadion","Stadion ",44.19249,28.639853
+1211,"Dacia","Dacia",44.196379,28.632861
+1213,"Tomis 3","Tomis 3",44.199783,28.627673
+1159,"Suceava","Suceava",44.204951,28.623626
+1219,"Scoala 29","Scoala 29",44.2088,28.623194
+1232,"Sere","Sere",44.210883,28.611883
+1245,"Gradina ","  ",44.217203,28.603052
+1252,"Facultativa 231","undefined",44.221196,28.59756
+1253,"O.N.R.C.","undefined",44.224362,28.593109
+1254,"Recoltei ","Recoltei",44.227308,28.595664
+1255,"Facultativa","Facultativa",44.228857,28.597094
+1256,"Scoala (3) ","undefined",44.231882,28.598913
+1260,"Facultativa  ","Facultativa",44.231197,28.602817
+1262,"Sanatoriu (C.L.)","Palazu Mare",44.231425,28.606871
+1261,"Facultativa   ","Facultativa",44.231223,28.602748
+1257,"Scoala  ","undefined",44.231613,28.599731
+1263,"Facultativa 249","Facultativa 249",44.22922,28.599439
+1264,"Recoltei","Recoltei",44.225935,28.599077
+1265,"Facultativa        ","Facultativa",44.222189,28.598597
+1249,"Kracovia","undefined",44.220436,28.597705
+1248,"Napoli  (3) - sens Tomis Nord","undefined",44.21798,28.595958
+1247,"Facultativa 225","Facultativa",44.220149,28.598897
+1246,"Gradina  ","undefined",44.215954,28.604632
+1233,"Sere    ","Sere   ",44.2112,28.611226
+1177,"Tomis III","undefined",44.201124,28.627769
+1140,"Varful cu Dor","Varful cu Dor",44.150768,28.605021
+1142,"Soseaua din Vii","Soseaua din Vii",44.14807,28.607899
+1144,"Comarnic","Comarnic",44.145521,28.610588
+1332,"Scoala Ion Minulescu","Scoala Ion Minulescu",44.143698,28.613762
+598,"Facultativa","Facultativa",44.140371,28.611198
+1352,"Hatman Arbore","Hatman Arbore",44.139188,28.614596
+1349,"Facultativa","undefined",44.138121,28.619268
+1148,"Bifurcatie Cumpana","Bifurcatie Cumpana",44.132308,28.618011
+1149,"Tiriac Auto","Tiriac Auto",44.136283,28.619982
+1147,"KM 5","KM 5",44.140342,28.621914
+1160,"Proges","undefined",44.142857,28.623167
+1151,"Doraly Mall","Doraly Mall",44.145885,28.624639
+1153,"KM 4","KM 4",44.154082,28.628732
+1081,"B-dul Mamaia","B-dul Mamaia ",44.185906,28.647508
+1083,"Spitalul Militar","Spitalul Militar",44.189619,28.651059
+1085,"Turda","Turda",44.193145,28.650092
+1087,"Ion Ratiu","Io Ratiu",44.197207,28.648238
+1089,"Ciprian Porumbescu","Ciprian Porumbescu",44.200241,28.646753
+1091,"Delfinariu","Delfinariu",44.205581,28.644182
+1093,"Complex ONT","Complex ONT",44.210788,28.643118
+1095,"Facultativa","Facultativa",44.212926,28.642797
+1097,"Pescarie (C.L.)","Pescarie > Mamaia",44.215172,28.642295
+636,"Perla Radio Constanta-Radio Vacanta","undefined",44.218686,28.632757
+997,"Campus - (C.L.)","Campus",44.215486,28.626139
+1277,"Campus ","Campus ",44.214106,28.62446
+1055,"Perla Radio C-ta-Radio Vacanta","1",44.218335,28.633706
+1099,"Pavilion Expo.","Pavilion Expo.",44.216929,28.639371
+1098,"Pescarie","Pescarie",44.215047,28.642015
+1096,"Facultativa","Facultativa",44.212349,28.642658
+1094,"Complex ONT","Complex ONT",44.210769,28.64292
+1092,"Delfinariu","Delfinariu",44.20594,28.643835
+1090,"Dragoslavele","Dragoslavele",44.201813,28.645792
+1088,"Dorobanti","Dorobanti",44.198601,28.647331
+1086,"Ion Ratiu","Ion Ratiu",44.194847,28.649149
+1084,"Turda","Turda",44.191833,28.65025
+1082,"B-dul Mamaia","B-dul Mamaia",44.186301,28.647991
+1152,"KM 4","KM 4",44.153435,28.628364
+1150,"Dorally Mall","Dorally Mall",44.145536,28.624429
+1208,"Pandurului","Pandurului",44.14177,28.62192
+1207,"Facultativa","Facultativa",44.142803,28.618546
+1331,"Scoala Ion Minulescu","undefined",44.144242,28.613896
+1145,"Angro","undefined",44.145779,28.610364
+1143,"Soseaua din Vii","Soseaua din Vii",44.147455,28.608633
+1141,"Varful cu Dor","undefined",44.150943,28.604883
+1146,"KM 5","KM 5",44.140439,28.621911
+1350,"Facultativa","undefined",44.138123,28.619375
+1351,"Hatman Arbore","Hatman Arbore",44.139278,28.614303
+1353,"Mesterul Manole","Mesterul Manole",44.140128,28.610514
+1336,"Comarnic (C.L.)","Comarnic",44.139531,28.605554
+1335,"Fantanele","undefined",44.137025,28.607344
+1337,"Mesterul Manole","undefined",44.137509,28.610024
+1154,"Statie Facultativa","Trzorerie",44.168698,28.637049
+1368,"Gara C.F.R. (C.L.)","Gara",44.168607,28.632939
+1190,"Scoala 13","Scoala 13",44.180539,28.643686
+1189,"Magazinul Tomis","Magazinul Tomis",44.178693,28.645846
+1186,"Poarta 2","Poarta 2",44.17519,28.652176
+1187,"Fantasio","Fantasio",44.175675,28.64957
+1188,"Magazinul Tomis","Magazinul Tomis",44.178127,28.646567
+1191,"Scoala 13","Scoala 13",44.181156,28.643008
+1193,"Institutul de proiectari","Institutul de proiectari",44.185828,28.644593
+1195,"Spitalul Judetean","Spitalul Judetean",44.188226,28.642431
+1198,"Colegiul Tehnic Tomis","Colegiul Tehnic Tomis",44.192003,28.639129
+1042,"Poarta 1 (C.L.)","Cap linie Poarta 1",44.171058,28.659154
+1041,"Radio Romania","Radio Romania",44.173521,28.656588
+1100,"Poarta 2","Poarta 2",44.175204,28.652214
+1347,"I.G.Duca","I.G.Duca",44.177508,28.640962
+1346,"Balada","Balada",44.179942,28.637824
+1343,"Rapsodia","Rapsodia",44.180659,28.633152
+1341,"Rasuri","undefined",44.182458,28.628574
+1339,"Frunzelor","undefined",44.183582,28.625215
+1333,"Institutul de marina","Marina",44.18474,28.621706
+1328,"Orizont","undefined",44.186692,28.615809
+1325," Facultativa","undefined",44.188584,28.611514
+1320,"Energia","undefined",44.191623,28.605549
+1313,"Bariera  CFR","undefined",44.192497,28.60384
+1308,"Targ","undefined",44.202909,28.610764
+1300,"Euromaterna","Euromaterna",44.201251,28.612969
+1298,"Graniceri","undefined",44.198924,28.617157
+1296,"Cap Linie Galeriile Soveja","Soveja",44.196749,28.622151
+1295,"Galeriile Soveja  - imbarcare","Soveja",44.196978,28.621764
+1297,"Granicerii","Granicerii",44.199039,28.617032
+1299,"Euromaterna","undefined",44.200866,28.613504
+1307,"Facultativa","Facultativa",44.202786,28.611006
+1314,"Bariera CFR","Bariera CFR",44.19225,28.604244
+1321,"Energia","undefined",44.190942,28.606814
+1326,"Facultativa","undefined",44.188217,28.612154
+1327,"Orizont","undefined",44.186907,28.615072
+1334,"Institutul de marina","undefined",44.184654,28.621868
+1338,"Frunzelor","Frunzelor",44.183311,28.62594
+1340,"Rasuri","Rasuri",44.182416,28.62861
+1344,"Rapsodia","Rapsodia",44.18136,28.631799
+1345,"Balada","Balada",44.180016,28.637169
+1040,"Radio Romania","Radio Romania",44.173153,28.657052
+1043,"Poarta 1","Poarta 1 sens Port",44.171127,28.659045
+1266,"Palas (C.L.)","Cap linie 48",44.168929,28.576608
+1267,"Bucegi","undefined",44.168664,28.576704
+1269,"Spitalul CFR ","undefined",44.168971,28.581751
+1271,"Scoala 31 ","undefined",44.169375,28.588007
+1175,"I.P.M.C.","undefined",44.169632,28.59185
+1275,"Complex Bratianu ","undefined",44.170003,28.597524
+1284,"Alba Iulia    ","undefined",44.17031,28.602281
+1286,"Dispensar  ","undefined",44.170863,28.611707
+1287,"Topolog ","undefined",44.171243,28.616715
+1289,"Salvare ","undefined",44.171505,28.620539
+1291,"Complex Intim ","undefined",44.171768,28.624749
+1294,"Policlinica C.F.R.","undefined",44.172073,28.629774
+1301,"Liceul Ovidius ","undefined",44.172463,28.635501
+1348,"Piata Grivitei","Piata Grivitei",44.176077,28.642613
+1302,"Liceul Ovidius  ","undefined",44.172501,28.635584
+1293,"Policlinica C.F.R.","undefined",44.172116,28.62994
+1292,"Complex Intim  ","undefined",44.171818,28.62514
+1290,"Salvare  ","undefined",44.17155,28.620764
+1288,"Topolog   ","undefined",44.171304,28.61713
+1285,"Dispensar ","undefined",44.170757,28.608807
+1176,"Alba Iulia","undefined",44.17033,28.60211
+1276,"Complex Bratianu  ","undefined",44.170088,28.598331
+1274,"Scoala 31  ","undefined",44.16962,28.591175
+1270,"Palas ","undefined",44.16933,28.586917
+1268,"Spitalul CFR","undefined",44.16899,28.581544
+1364,"Poporului","Poporului",44.179694,28.632827
+1362,"Ion Roata","Ion Roata",44.1783,28.628645
+1360,"Brick","Brick",44.177144,28.624052
+1359,"Primaverii","Primaverii",44.176529,28.620778
+1357,"Eliberarii","Eliberarii",44.176672,28.614653
+1355,"Facultativa","Facultativa",44.177538,28.610447
+1077,"Halta Traian","Halta Traian",44.175519,28.607493
+1354,"Facultativa","Facultativa",44.177296,28.610158
+1356,"Eliberarii","Eliberarii",44.176357,28.614901
+1358,"Primaverii","Primaverii",44.176473,28.620356
+1361,"Brick","Brick",44.177222,28.624535
+1363,"Poporului","Poporului",44.178814,28.630216
+592,"Gara CFR {100]","Gara CFR {100]",44.169013,28.632449
+1106,"Policlinica 2","Policlinica 2",44.171857,28.636782
+1108,"Bucuresti","Bucuresti",44.176226,28.636073
+1110,"Casa de Cultura","Casa de Cultura",44.180821,28.63582
+1112,"Saguna","Saguna",44.184164,28.635446
+1114,"Trocadero","Trocadero",44.189492,28.633845
+1116,"Scoala Spectrum","Scoala Spectrum",44.192451,28.633009
+1118,"Dacia","Dacia",44.195577,28.632145
+1119,"Tomis 3","Tomis 3",44.1996,28.63111
+1283,"Bulevard","undefined",44.203327,28.630175
+1281,"Suceava  ","undefined",44.208818,28.628961
+1161,"Zodiac","Zodiac",44.212377,28.628526
+1279,"Sat Vacanta","Sat Vacanta",44.214689,28.62837
+998,"Sat Vacanta (C.L.)","Cap linie 100 - Sat Vacanta",44.215855,28.627745
+1162,"Zodiac","Zodiac",44.211567,28.628553
+1280,"Suceava ","undefined",44.209234,28.628855
+1282,"Bulevard ","Bulevard ",44.203235,28.630161
+1120,"Tomis 3","Tomis 3",44.199051,28.631211
+1117,"Scoala Spectrum","Scoala Spectrum",44.192436,28.632973
+1115,"Trocadero","Trocadero",44.189387,28.633827
+1113,"Saguna","Saguna",44.184312,28.635381
+1111,"Casa de Cultura","Casa de Cultura",44.181526,28.635727
+1109,"Bucuresti","Bucuresti",44.176196,28.636034
+1107,"Policlinica 2","Policlinica 2",44.17322,28.636473
+1365,"Depou tramvaie (C.L.)","Zona industriala",44.158817,28.586415
+1278,"Depou Tramvaie","undefined",44.15906,28.586592
+1174,"I.A.M.S.A.T","undefined",44.161275,28.587902
+1178,"S.C. Palas","undefined",44.163932,28.590265
+1179,"Facultativa","undefined",44.164372,28.592399
+1180,"Pan Dobrogea","Pan Dobrogea",44.164878,28.595972
+1184,"Caraiman  ","Caraiman  ",44.157483,28.613259
+1200,"Complex","Complex",44.154389,28.618266
+1203,"KM 4-5","KM 4-5",44.151222,28.623254
+1204,"Dorally","Dorally",44.147617,28.624335
+1169,"Complex Abator","Complex Abator",44.158602,28.628621
+1173,"Abator","Abator",44.160468,28.629007
+1171,"Piata Abator","Piata Abator",44.162598,28.630173
+1214,"Gara CFR","Gara CFR",44.168631,28.632597
+1167,"Piata Abator","Piata Abator",44.162151,28.629887
+1168,"Complex Abator","Complex Abator",44.160009,28.628715
+1170,"Far","Far",44.157568,28.630011
+1206,"Complex Liliacului","Complex Liliacului",44.145799,28.61976
+1205,"Scoala 37","Scoala 37",44.148257,28.621908
+1202,"KM 4-5","KM 4-5",44.151681,28.622899
+1201,"Complex","Complex",44.154095,28.6188
+1199,"Caraiman ","Caraiman ",44.157132,28.613882
+1030,"B-dul Aurel Vlaicu","Aurel Vlaicu",44.161287,28.604385
+1032,"Logistic Park"," Logistic Park",44.159945,28.597174
+1034,"RATC","RATC",44.159555,28.593471
+1037,"Facultativa","Facultativa",44.159194,28.590035
+1038,"Depou tramvaie","Depou tramvaie",44.158908,28.587184
+1039,"Depou tramvaie ","Depou tramvaie",44.158898,28.587352
+1036,"Facultativa Celco","Facultativa Celco",44.159216,28.590445
+1035,"Fabrica de bere","Fabrica de bere",44.159489,28.59307
+1033,"Argus","Argus",44.159879,28.596741
+1031,"B-dul Aurel Vlaicu","B-dul Aurel Vlaicu",44.161053,28.604236
+1029,"Meconst","Meconst",44.165134,28.607401
+1027,"B-dul I.C.Bratianu","   Bratianu",44.171917,28.610143
+1025,"Eliberarii","Eliberarii",44.177341,28.614627
+1023,"Scoala 23","Scoala 23",44.180422,28.617756
+1021,"Baba Novac","Baba Novac",44.184479,28.621045
+1019,"Izvor","Izvor",44.187476,28.623352
+1016,"Independentul","Independentul",44.192302,28.624301
+1015,"Galeriile Soveja","Galeriile Soveja",44.194677,28.62392
+1013,"B-dul Tomis","B-dul Tomis",44.200082,28.626364
+1010,"City Park","City Park",44.202454,28.631286
+1007,"Parcul Copiilor","Parcul Copiilor",44.202659,28.637217
+1004,"Delfinariu","undefined",44.205026,28.645287
+1002,"Facultativa","Zorelelor",44.205673,28.647787
+1000,"Faleza Nord-Coborare (C.L.)","Stalp",44.207132,28.649863
+1001,"Faleza Nord-Urcare (C.L.)","102N",44.207031,28.649463
+1003,"Facultativa","Zorelelor",44.20556,28.647188
+1005,"Delfinariu","Delfinariu",44.20446,28.642891
+1006,"Parcul Copiilor","PC",44.202695,28.63741
+1009,"City Park","City Park",44.202571,28.631907
+1014,"Galeriile Soveja","Galerii - sens CET",44.196026,28.62381
+1017,"Independentul","Independentul",44.191533,28.624398
+1018,"Izvor","undefined",44.188088,28.623808
+1020,"Baba Novac","Baba Novac",44.183967,28.620384
+1022,"Scoala 23","Scoala 23",44.181234,28.618268
+1024,"Eliberarii","Eliberarii",44.177399,28.614639
+1026,"B-dul I.C.Bratianu","I C Bratianu",44.17146,28.610067
+1028,"Meconst","Meconst",44.165032,28.607278
