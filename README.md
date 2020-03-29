@@ -17,4 +17,10 @@ This can be viewed in the [Schedule Viewer that Google provides](https://github.
 ![Screenshot](screen2.png "Screenshot")
 ![Screenshot](screen3.png "Screenshot")
 
-This is a work in progress, please see the attached [Validation Report](https://bodominea.github.io/Bucharest-GTFS-Exporter/validation-results.html). I'm still not sure which ones are project bugs and which are actually bad data entered by the Municipality in the app.
+### Notes
+Given that the API has no way to request the timetable for a specific schedule (calendar) like weekday, weekend and just returns whatever is current for the server's time, you will need to run this in the weekend once and on a weekday once (at least for STB SA and METROREX which have separate schedules only for S/D/Weekdays) and combine your results. All calendars are in the feed, you need to set at line 96:38 when running, what calendar the trips are inserted as. Also, because the app seems to give differently arranged arrays for metro lines, you need to set ```hasMetroLines=true``` in order to properly convert them.
+
+This app will also work to create Constanța GTFS files, you just need to set the API URL on line 7:15 to ```https://info.ctbus.ro``` and ```hasMetroLines=false```. At this time the output is not so exciting because most of the lines do not have static timetables, but you still get your routes, shapes, stops etc.
+
+### Final words
+This is a work in progress, please see the attached [Validation Report](https://bodominea.github.io/Bucharest-GTFS-Exporter/validation-results.html). I'm still not sure which ones are project bugs and which are actually bad data entered by the Municipality in the app. Please contribute via PR's if you're able to.
