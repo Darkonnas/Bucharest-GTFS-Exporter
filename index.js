@@ -11,7 +11,8 @@ var start = new Date();
 var data = {
 	"agency": [
 		"agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email",
-		"1,STB SA,https://stbsa.ro,Europe/Bucharest,ro,0722999999,https://stbsa.ro,contact@stbsa.ro"
+		"1,STB SA,https://stbsa.ro,Europe/Bucharest,ro,0213110595,http://stbsa.ro/portofel_electronic.php,contact@stbsa.ro",
+		"2,METROREX SA,http://www.metrorex.ro/,Europe/Bucharest,0213193601,http://www.metrorex.ro/titluri_de_calatorie_p1381-1,contact@metrorex.ro"
 	],
 	"stops": [
 		"stop_id,stop_name,stop_desc,stop_lat,stop_lon"
