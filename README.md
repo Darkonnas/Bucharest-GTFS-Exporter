@@ -24,8 +24,9 @@ This app will also work to create Constanța GTFS files, you just need to set th
 
 ![Screenshot](screen-c.png "Screenshot")
 
-You can even spin up your own OpenTripPlanner instance based on their [basic tutorial](http://docs.opentripplanner.org/en/latest/Basic-Tutorial/) and it will kinda work:
+You can even spin up your own OpenTripPlanner instance based on their [basic tutorial](http://docs.opentripplanner.org/en/latest/Basic-Tutorial/) and it will kinda work (the screenshots are not from the basic OTP -anymore- but that would work just fine too):
 ![Screenshot](OTP.png "Screenshot")
+![Screenshot](OTP2.png "Screenshot")
 
 ### Final words
 This is a work in progress, please see the attached [Validation Report](https://bodominea.github.io/Bucharest-GTFS-Exporter/validation-results.html). I'm still not sure which ones are project bugs and which are actually bad data entered by the Municipality in the app. Please contribute via PR's if you're able to.
