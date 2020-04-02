@@ -7,6 +7,8 @@ const util = require('util')
 var apiURL = "https://info.stbsa.ro",
     hasMetroLines = true;
 
+var currentService="LV";
+
 var start = new Date();
 
 var data = {
@@ -106,7 +108,7 @@ function processLineDirection(res2, id, dir, hs, sn) {
 
     if (temp)
         for (var i = 0; i < temp.length; i++) {
-            data.trips.push(id + ",SD,TRIP" + id + dir + i + ',"' + hs + '",' + dir + ',' + id + dir);
+            data.trips.push(id + ","+currentService+",TRIP"+ currentService + id + dir + i + ',"' + hs + '",' + dir + ',' + id + dir);
             var last = '';
             var max = (hasMetroLines && sn.indexOf("M") != -1) ? (temp[i].length) : (temp[i].length - 1);
             if (temp[i])
@@ -140,7 +142,7 @@ function processLineDirection(res2, id, dir, hs, sn) {
 
                         }
                         last = temp[i][j];
-                        data.stop_times.push("TRIP" + id + dir + i + temp[i][j]);
+                        data.stop_times.push("TRIP"+ currentService + id + dir + i + temp[i][j]);
                     }
                 }
         }
