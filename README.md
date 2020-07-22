@@ -29,4 +29,4 @@ You can even spin up your own OpenTripPlanner instance based on their [basic tut
 ![Screenshot](OTP2.png "Screenshot")
 
 ### Final words
-This is a work in progress, please see the attached [Validation Report](https://bodominea.github.io/Bucharest-GTFS-Exporter/validation-results.html). I'm still not sure which ones are project bugs and which are actually bad data entered by the Municipality in the app. Please contribute via PR's if you're able to.
+This is a work in progress, please see the attached [Validation Report](https://flashwebit.github.io/Bucharest-GTFS-Exporter/validation-results.html). I'm still not sure which ones are project bugs and which are actually bad data entered by the Municipality in the app. Please contribute via PR's if you're able to.
